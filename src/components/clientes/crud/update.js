@@ -50,7 +50,6 @@ const UdateClientes =() => {
         return (
             <Container id="clientes-crear-container">
                 <Loading show={loading} />
-                
                 <Row>
                     <h1>Actualizar datos</h1>
                 </Row>
